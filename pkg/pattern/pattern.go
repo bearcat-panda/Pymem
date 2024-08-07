@@ -5,8 +5,8 @@ import (
 	"regexp"
 	"slices"
 
-	"github.com/ramory-l/gomem/pkg/memory"
-	"github.com/ramory-l/gomem/pkg/resources"
+	"github.com/bearcat-panda/Pymem/pkg/memory"
+	"github.com/bearcat-panda/Pymem/pkg/resources"
 )
 
 func PatternScanModule(gm *memory.Gomem, module resources.MODULEINFO, pattern string, returnMultiple bool) ([]uintptr, error) {

@@ -1,4 +1,4 @@
-module github.com/ramory-l/gomem
+module github.com/bearcat-panda/Pymem
 
 go 1.22.1
 

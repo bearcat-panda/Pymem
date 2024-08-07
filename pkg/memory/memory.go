@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"unsafe"
 
-	"github.com/ramory-l/gomem/pkg/process"
+	"github.com/bearcat-panda/Pymem/pkg/process"
 	"golang.org/x/sys/windows"
 )
 

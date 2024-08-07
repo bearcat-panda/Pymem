@@ -5,7 +5,7 @@ import (
 	"strings"
 	"unsafe"
 
-	"github.com/ramory-l/gomem/pkg/resources"
+	"github.com/bearcat-panda/Pymem/pkg/resources"
 	"golang.org/x/sys/windows"
 )
 
